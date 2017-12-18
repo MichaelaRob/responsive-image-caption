@@ -33,7 +33,7 @@ figure {
   background-color: #e2e2e2;
 }
 
-img {
+.img-flex {
   width: 100%;
 }
 
@@ -43,7 +43,8 @@ p {
   padding-right: 1rem;
 }
 
-@media only screen and (min-width:38em) {
+@media only screen and (min-width: 38em) {
+
   .text-box {
     color: #fff;
     position: absolute;
@@ -63,6 +64,4 @@ p {
     overflow: hidden;
     background-color: #fff;
   }
-
-
 }
